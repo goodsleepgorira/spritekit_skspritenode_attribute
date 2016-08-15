@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		880A870B1D61CD92005E4561 /* TestScene.sks in Resources */ = {isa = PBXBuildFile; fileRef = 880A870A1D61CD92005E4561 /* TestScene.sks */; };
 		884A8F2F1D6069FB00567E8E /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 884A8F2E1D6069FB00567E8E /* AppDelegate.swift */; };
 		884A8F311D6069FB00567E8E /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 884A8F301D6069FB00567E8E /* ViewController.swift */; };
 		884A8F341D6069FB00567E8E /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 884A8F321D6069FB00567E8E /* Main.storyboard */; };
@@ -16,6 +17,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		880A870A1D61CD92005E4561 /* TestScene.sks */ = {isa = PBXFileReference; lastKnownFileType = file.sks; path = TestScene.sks; sourceTree = "<group>"; };
 		884A8F2B1D6069FB00567E8E /* TestSpriteKitScene.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = TestSpriteKitScene.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		884A8F2E1D6069FB00567E8E /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		884A8F301D6069FB00567E8E /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -60,6 +62,7 @@
 				884A8F301D6069FB00567E8E /* ViewController.swift */,
 				884A8F321D6069FB00567E8E /* Main.storyboard */,
 				884A8F401D606A5100567E8E /* TestScene.swift */,
+				880A870A1D61CD92005E4561 /* TestScene.sks */,
 				884A8F351D6069FB00567E8E /* Assets.xcassets */,
 				884A8F371D6069FB00567E8E /* LaunchScreen.storyboard */,
 				884A8F3A1D6069FB00567E8E /* Info.plist */,
@@ -127,6 +130,7 @@
 			files = (
 				884A8F391D6069FB00567E8E /* LaunchScreen.storyboard in Resources */,
 				884A8F361D6069FB00567E8E /* Assets.xcassets in Resources */,
+				880A870B1D61CD92005E4561 /* TestScene.sks in Resources */,
 				884A8F341D6069FB00567E8E /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -288,6 +292,7 @@
 				884A8F3F1D6069FB00567E8E /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
